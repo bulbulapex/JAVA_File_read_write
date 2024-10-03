@@ -1,0 +1,81 @@
+ Name : d
+ Gender :s
+ Phone :d
+ Email :s
+ Address :d
+ Age :3
+ Birthdate :s
+ Name : sd
+ Gender :sd
+ Phone :e
+ Email :we
+ Address :d
+ Age :3
+ Birthdate :df
+ Name : s
+ Gender :sd
+ Phone :d
+ Email :sd
+ Address :e
+ Age :3
+ Birthdate :ds
+----------------------------------
+ Name : d
+ Gender :d
+ Phone :ds
+ Email :ds
+ Address :s
+ Age :3
+ Birthdate :sd
+ ----------------------------------
+
+----------------------------------
+ Name : ds
+ Gender :sdf
+ Phone :sdf
+ Email :sf
+ Address :s
+ Age :3
+ Birthdate :sdf
+ ----------------------------------
+
+----------------------------------
+ Name : df
+ Gender :sdf
+ Phone :sdf
+ Email :sdf
+ Address :e
+ Age :33
+ Birthdate :f
+ ----------------------------------
+
+----------------------------------
+ Name : ds
+ Gender :ds
+ Phone :fsd
+ Email :3
+ Address :d
+ Age :3
+ Birthdate :3
+ ----------------------------------
+
+----------------------------------
+ Name : bulbul Ahammed
+ Gender :male
+ Phone :01748238289
+ Email :bulbulahammed614@gmail.com
+ Address :Dhaka
+ Age :3
+ Birthdate :1999
+ ----------------------------------
+
+----------------------------------
+ Name : bul
+ Gender : 3
+ Phone : 3
+ Email : fs
+ Address : df
+ Age : 3
+ Birthdate : 34
+----------------------------------
+
